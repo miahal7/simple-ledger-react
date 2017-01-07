@@ -1,0 +1,29 @@
+{
+  "name": "simple-ledger",
+  "version": "2.0.0",
+  "private": true,
+  "scripts": {
+    "start": "meteor"
+  },
+    "repository": {
+    "type": "git",
+    "url": "https://github.com/miahal7/simple-ledger.git"
+  },
+  "author": "Jeremiah Lucio",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/miahal7/simple-ledger.git/issues"
+  },
+  "dependencies": {
+    "meteor-node-stubs": "~0.2.0",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^3.9.1",
+    "eslint-config-airbnb": "^12.0.0",
+    "eslint-plugin-import": "^1.16.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.5.0"
+  }
+}
